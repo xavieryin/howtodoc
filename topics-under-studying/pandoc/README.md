@@ -6,4 +6,4 @@
 - 中文字形
   - 斷行
 - MPE
-  - Use Pandoc Parser
+  - Use Pandoc Parser選項
